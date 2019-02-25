@@ -19,7 +19,7 @@ def bonus
       ]
    }
   }
-epic_tragedy[hero][status]="dead"
+epic_tragedy[:hero][status]="dead"
 
   
 
